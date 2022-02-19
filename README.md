@@ -1,4 +1,11 @@
-### Hi there 👋
+### Let me introduce myself
+Hello, I am Taeha Kim.
+
+My main research field is Computer Vision.
+
+The details of my introduction is written in Notion.
+
+Here is the link, [Let me introduce myself]<https://amvision.notion.site/Let-me-introduce-myself-97877141c96c46c8847e6750a5f01807>
 
 <!--
 **TaehaKim-Kor/TaehaKim-Kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
