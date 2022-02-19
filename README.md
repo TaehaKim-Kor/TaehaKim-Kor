@@ -1,7 +1,7 @@
 ### Let me introduce myself
 Hello, I am Taeha Kim.
 
-My main research field is Computer Vision.
+My main research field is Computer Vision and Artificial Intelligence.
 
 The details of my introduction is written in Notion.
 
