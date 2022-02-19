@@ -3,10 +3,11 @@ Hello, I am Taeha Kim.
 
 My main research field is Computer Vision and Artificial Intelligence.
 
-The details of my introduction is written in Notion.
+The details of my introduction are written in Notion.
 
 Here is the link, [Let me introduce myself](https://amvision.notion.site/Let-me-introduce-myself-97877141c96c46c8847e6750a5f01807)
 
+If you want to see my boostcamp-AI-Tech Diary, you can use this [link.](https://github.com/TaehaKim-Kor/Diary-about-boostcamp-AI-Tech)
 <!--
 **TaehaKim-Kor/TaehaKim-Kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
